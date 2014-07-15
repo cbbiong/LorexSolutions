@@ -538,14 +538,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', end
 
 #aboutUs .img2{
     
-    width:220px;
+   
     margin-top:-30px;
 }
 
 .readMor{
     
     float:right;
-    margin-top:-55px;
+    margin-top:-15px;
 
     
 }
@@ -585,10 +585,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', end
 	float: right;
 	
 	
-	margin-top: -200px;
+	margin-top: -170px;
 	
 	
-	margin-left: 250px;
+	margin-left: 230px;
 	
 	
 	margin-right: 32px;
@@ -627,10 +627,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', end
 	
 	float: left;
 
-	margin-top: -145px;
+	margin-top: -105px;
 	
 	
-	margin-left: 250px;
+	margin-left: 230px;
 	
 	
 	margin-right: 32px;
@@ -654,7 +654,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', end
 #whyUs {
 	
 	
-	margin: -502px 0px 10px -14.5px;
+	margin: -454px 0px 10px -14.5px;
 	
 	z-index:2;
 	
@@ -1244,7 +1244,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', end
 .social {
 	
 	
-	font: bold 15px Verdana, Geneva, sans-serif;
+	font: bold 17px Verdana, Geneva, sans-serif;
 	
 	
 	color: #7a7a7a;
@@ -1271,7 +1271,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', end
 
 .social li h3{
     position:relative;
-    left:-170px;
+    left:0px;
+    bottom:5px;
     width:200px;
     
 }
@@ -1393,8 +1394,7 @@ ol.slides-markers {
 	
 	
 	margin: 0;
-	
-	
+
 	width: 100%;
 	
 	
